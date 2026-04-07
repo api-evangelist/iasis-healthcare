@@ -1,7 +1,11 @@
 aid: iasis-healthcare
-url: https://raw.githubusercontent.com/api-evangelist/iasis-healthcare/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/iasis-healthcare/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.iasis-healthcare.com
+description: >-
+  IASIS Healthcare was a leading owner and operator of acute care hospitals in growing
+  urban markets in the United States before being acquired by Steward Health Care.
