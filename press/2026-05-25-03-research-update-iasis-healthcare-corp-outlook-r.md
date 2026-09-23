@@ -1,7 +1,9 @@
 ---
 title: 'Research Update: IASIS Healthcare Corp. Outlook R'
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/9951796
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Iasis Healthcare" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Steward Health Completes Acquisition Of IASIS Healthcare
 url: https://www.prnewswire.com/news-releases/steward-health-completes-acquisition-of-iasis-healthcare-300528426.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Iasis Healthcare" press release artificial intelligence'
 position: 1
 source: serpapi-google

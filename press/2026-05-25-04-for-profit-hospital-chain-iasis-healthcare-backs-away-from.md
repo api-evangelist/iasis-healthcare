@@ -1,7 +1,9 @@
 ---
 title: For-profit hospital chain Iasis Healthcare backs away from ...
 url: https://medcitynews.com/2017/01/iasis-healthcare-backs-away-ipo/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Iasis Healthcare" press release artificial intelligence'
 position: 4
 source: serpapi-google
