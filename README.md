@@ -1,4 +1,4 @@
-# IASIS Healthcare (iasis-healthcare)
+# IASIS Healthcare
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,33 +66,77 @@
 
 IASIS Healthcare was a leading owner and operator of acute care hospitals in growing urban markets in the United States before being acquired by Steward Health Care in 2017. Operations and any legacy developer resources have since been consolidated under Steward Health Care.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/iasis-healthcare/refs/heads/main/apis.yml)
+**Areas:** Acquired · Healthcare · Hospitals · Legacy
 
-## Scope
+## IASIS Healthcare on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for IASIS Healthcare is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/iasis-healthcare/](https://apis.io/providers/iasis-healthcare/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Acquired, Healthcare, Hospitals, Legacy
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-No APIs have been documented. IASIS Healthcare was acquired by Steward Health Care.
+Authentication, trust centre, and vulnerability disclosure.
 
-## Properties
+- [Iasis Healthcare Domain Security](https://apis.io/security/iasis-healthcare/iasis-healthcare-domain-security/)
 
-- [Website (Steward Health Care)](https://www.steward.org)
+## Where to find this API
 
-## Timestamps
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+- [Website](https://www.steward.org)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 2.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/iasis-healthcare/](https://apis.io/providers/iasis-healthcare/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IASIS Healthcare: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/iasis-healthcare/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
